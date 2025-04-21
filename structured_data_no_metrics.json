@@ -1,0 +1,506 @@
+[
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 8,
+    "Workstation name": "0/S Test",
+    "Number of products": 1,
+    "Working hours (Sec.)": 6.88,
+    "Number of operators": 1,
+    "Cycle Time (Sec.)": 6.88,
+    "Job saturation (%)": 0.86,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS product in each hand and put it on the test machine support",
+        "manual_sec": 2.01,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Press the switch with both hands to test, and wait for the test machine to display PASS",
+        "manual_sec": 2.63,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "Put the good products into the production line",
+        "manual_sec": 2.24,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 9,
+    "Workstation name": " Hi-pottest&Position detection",
+    "Number of products": 1,
+    "Working hours (Sec.)": 7.2,
+    "Number of operators": 1,
+    "Cycle Time (Sec.)": 7.2,
+    "Job saturation (%)": 0.9,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS product in each hand and put it on the test machine support",
+        "manual_sec": 0.99,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Press the switch with both hands to test, and wait for the test machine to display PASS",
+        "manual_sec": 2.56,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "Use both hands to take the tested product off and place it on the Gage board, and flip it over to confirm the length of the pin.",
+        "manual_sec": 2.83,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 4,
+        "description": "Put the good products into the production line",
+        "manual_sec": 0.82,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 10,
+    "Workstation name": "Solder ring assembly & press-in",
+    "Number of products": 1,
+    "Working hours (Sec.)": 6.2700000000000005,
+    "Number of operators": 1,
+    "Cycle Time (Sec.)": 6.2700000000000005,
+    "Job saturation (%)": 0.7837500000000001,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS of good product from the upper workstation with your left hand, and take 1 Solder ring with your right hand",
+        "manual_sec": 2.87,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Install the Solder Ring on both sides of the plasticPOST",
+        "manual_sec": 3.16,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "The left hand places the assembled product on the automatic press machine, and after pressing, it flows into the next work station",
+        "manual_sec": 0.24,
+        "machine_sec": 4.26,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 11,
+    "Workstation name": "External GAP & appearance inspection (CCD inspection)",
+    "Number of products": 1,
+    "Working hours (Sec.)": 6.07,
+    "Number of operators": 1,
+    "Cycle Time (Sec.)": 6.07,
+    "Job saturation (%)": 0.75875,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS product in your right hand and place it on the CCD holder",
+        "manual_sec": 1.98,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Shake the product with your left hand and confirm whether the product B/L is within the baseline",
+        "manual_sec": 2.86,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "The left hand takes out the good product and puts it on the flow line",
+        "manual_sec": 1.23,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 12,
+    "Workstation name": "Coplanarity test 1",
+    "Number of products": 1,
+    "Working hours (Sec.)": 40.5,
+    "Number of operators": 6,
+    "Cycle Time (Sec.)": 6.75,
+    "Job saturation (%)": 0.84375,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS product with your left hand and place it on the AOI inspection machine, and press the button with your right hand to test it.",
+        "manual_sec": 3.52,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Take the product with your left hand, pick up the tool with your right hand, make adjustments according to the defects shown on the display, and then put the product on the AOI for testing.",
+        "manual_sec": 10.78,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "Repeat the above steps until all the displays are good.",
+        "manual_sec": 23.12,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 4,
+        "description": "Place the good quality wires in the marked plates and arrange them in order.",
+        "manual_sec": 3.08,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 13,
+    "Workstation name": "Internal GAP inspection (CCD inspection)",
+    "Number of products": 1,
+    "Working hours (Sec.)": 6.140000000000001,
+    "Number of operators": 1,
+    "Cycle Time (Sec.)": 6.140000000000001,
+    "Job saturation (%)": 0.7675000000000001,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS product in your right hand and place it on the CCD holder",
+        "manual_sec": 1.88,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Shake the product with your left hand and confirm whether the product B/L is within the baseline",
+        "manual_sec": 2.49,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "The left hand takes out the good product and puts it on the flow line",
+        "manual_sec": 1.77,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 14,
+    "Workstation name": "Coplanarity test (retest)",
+    "Number of products": 1,
+    "Working hours (Sec.)": 14.0,
+    "Number of operators": 2,
+    "Cycle Time (Sec.)": 7.0,
+    "Job saturation (%)": 0.875,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take 1 PCS product with your left hand and place it on the AOI inspection machine, and press the button with your right hand to test it.",
+        "manual_sec": 3.21,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Take the product with your left hand, pick up the tool with your right hand, make adjustments according to the defects shown on the display, and then put the product on the AOI for testing.",
+        "manual_sec": 5.24,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "Repeat the above steps until all the displays are good.",
+        "manual_sec": 4.37,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 4,
+        "description": "Place the good quality wires in the marked plates and arrange them in order.",
+        "manual_sec": 1.18,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "N/A"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 15,
+    "Workstation name": "Long and short PIN test",
+    "Number of products": 1,
+    "Working hours (Sec.)": 6.5,
+    "Number of operators": 2,
+    "Cycle Time (Sec.)": 3.25,
+    "Job saturation (%)": 0.40625,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Take a group of products with both hands and place them on the CCD holder and align them with the reference line",
+        "manual_sec": 1.12,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Push the product with your right hand. If the terminal of a product exceeds or falls below the reference line, pick it out and put it in the defective product box.",
+        "manual_sec": 3.73,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 3,
+        "description": "If the terminals are all within the reference line, they are considered good products and flow into the next workstation.",
+        "manual_sec": 1.65,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "C"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  },
+  {
+    "product_number": "3S6A013-00518-7F",
+    "Workstation number": 17,
+    "Workstation name": "Full inspection & TR packaging",
+    "Number of products": 1,
+    "Working hours (Sec.)": 5.43,
+    "Number of operators": 2,
+    "Cycle Time (Sec.)": 2.715,
+    "Job saturation (%)": 0.339375,
+    "Value Judgment Process": "VA",
+    "operations": [
+      {
+        "serial_number": 1,
+        "description": "Use both hands to take a group of products and place them on the packaging machine at the same time",
+        "manual_sec": 2.03,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Transport",
+        "current_action_level": "Semi automation"
+      },
+      {
+        "serial_number": 2,
+        "description": "Appearance inspection",
+        "manual_sec": 2.06,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "VA",
+        "action_item_classification": "Inspect",
+        "current_action_level": "Manual"
+      },
+      {
+        "serial_number": 3,
+        "description": "Use both hands to place the product in the packaging machine tray",
+        "manual_sec": 1.34,
+        "machine_sec": 0.0,
+        "value_judgment_unit": "NVA",
+        "action_item_classification": "Operation",
+        "current_action_level": "Advanced automation"
+      }
+    ],
+    "improvement items": {
+      "problem_description": "/",
+      "goals": "/",
+      "ecrs": "CR"
+    },
+    "metadata": {
+      "edition": "B",
+      "updated": 263822,
+      "approved_by": "approved by",
+      "reviewer": "reviewed by",
+      "prepared_by": "prepared by",
+      "responsible_person": "responsible person"
+    }
+  }
+]
