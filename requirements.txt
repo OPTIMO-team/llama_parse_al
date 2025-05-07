@@ -43,3 +43,7 @@ plotly
 kaleido
 trulens
 trulens-providers-openai
+trulens-apps-llamaindex
+llama-index-embeddings-huggingface
+trulens
+trulens-providers-openai
