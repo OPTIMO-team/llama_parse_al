@@ -41,3 +41,5 @@ git+https://github.com/FlagOpen/FlagEmbedding.git
 llama-index-indices-managed-llama-cloud
 plotly
 kaleido
+trulens
+trulens-providers-openai
